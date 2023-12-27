@@ -1,4 +1,4 @@
-package kz.exchange.service.api.models.response;
+package kz.exchange.service.api.data.response.api;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

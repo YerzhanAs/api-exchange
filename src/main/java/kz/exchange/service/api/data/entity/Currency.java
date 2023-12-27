@@ -1,4 +1,4 @@
-package kz.exchange.service.api.entity;
+package kz.exchange.service.api.data.entity;
 
 
 import jakarta.persistence.*;
